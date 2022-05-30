@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ToolWare](https://github.com/acezx-programer/ToolWare) and [PySimpleGUI Snippets(Vsc Extension)](https://github.com/acezx-programer/PySimpleGUI-Snippets)
 
-- 🌱 I’m currently learning **Python, Lua, C#/C, JavaScript, Html/CSS**
+- 🌱 I’m currently learning **Python, Lua, JavaScript, Html/CSS**
 
 - 🤝 I’m looking for help with [ToolWare](https://github.com/acezx-programer/ToolWare)
 

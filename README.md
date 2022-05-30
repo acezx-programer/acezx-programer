@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx" alt="acezx" /></a> </p>
 
-- 🔭 I’m currently working on [WireScan](https://github.com/acezx-programer/WireScan)
+- 🔭 I’m currently working on [ToolWare](https://github.com/acezx-programer/ToolWare)
 
 - 🌱 I’m currently learning **Python, Lua, C#/C, JavaScript, Html/CSS**
 
-- 👯 I’m looking to collaborate on [KitchenHub](https://github.com/ViVaWareBoi/KitchenHub)
-
-- 🤝 I’m looking for help with [WireScan](https://github.com/acezx-programer/WireScan)
+- 🤝 I’m looking for help with [ToolWare](https://github.com/acezx-programer/ToolWare)
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 
 - 💬 Ask me about **Python/Lua**
 
-- 📫 How to reach me **kennardstev@gmail.com**
+- 📫 How to reach me **botgymmic@gmail.com**
 
 <p align="left">
 </p>

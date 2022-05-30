@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx" alt="acezx" /></a> </p>
 
-- 🔭 I’m currently working on [ToolWare](https://github.com/acezx-programer/ToolWare)
+- 🔭 I’m currently working on [ToolWare](https://github.com/acezx-programer/ToolWare) and [PySimpleGUI Snippets(Vsc Extension)](https://github.com/acezx-programer/PySimpleGUI-Snippets)
 
 - 🌱 I’m currently learning **Python, Lua, C#/C, JavaScript, Html/CSS**
 

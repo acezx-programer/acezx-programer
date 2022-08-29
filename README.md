@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Acezx</h1>
-<h3 align="center">Web Designer/Programmer And Have Github Copilot</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acezx-programer&label=Profile%20views&color=0e75b6&style=flat" alt="acezx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx-programer" alt="acezx" /></a> </p>
 
-- 🔭 I’m currently working on [ToolWare](https://github.com/acezx-programer/ToolWare) and [PySimpleGUI Snippets(Vsc Extension)](https://github.com/acezx-programer/PySimpleGUI-Snippets)
+- 🔭 I’m currently working on [Azari Script-Hub](https://discord.gg/Tz6DHNaznP) and [PySimpleGUI Snippets(Vsc Extension)](https://github.com/acezx-programer/PySimpleGUI-Snippets)
 
-- 🌱 I’m currently learning **Python, Lua, JavaScript, Html/CSS**
-
-- 🤝 I’m looking for help with [ToolWare](https://github.com/acezx-programer/ToolWare)
+- 🌱 I’m currently learning **Python, Lua, kotlin, xojo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 

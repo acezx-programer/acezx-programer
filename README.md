@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx-programer" alt="acezx" /></a> </p>
 
-- 🔭 I’m currently working on [Azari Script-Hub](https://discord.gg/Tz6DHNaznP) and [PySimpleGUI Snippets(Vsc Extension)](https://github.com/acezx-programer/PySimpleGUI-Snippets)
 
 - 🌱 I’m currently learning **Python, Lua, kotlin, xojo**
 

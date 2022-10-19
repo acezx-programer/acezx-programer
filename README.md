@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx-programer" alt="acezx" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python, Lua, kotlin, xojo**
+- 🌱 I’m currently learning **Python, Luau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 
-- 💬 Ask me about **Python/Lua**
+- 💬 Ask me about **Python/Luau**
 
 - 📫 How to reach me **botgymmic@gmail.com**
 

@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 
-- 📫 How to reach me **botgymmic@gmail.com**
-
 <p align="left">
 </p>
 

@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acezx-programer" alt="acezx" /></a> </p>
 
 
-- 🌱 I’m currently learning **Cpp, Python, Luau, Reverse Engineering, General Hacking.**
+- 🌱 I’m currently learning **C++, Python, Java(Minecraft Modding), Reverse Engineering, General Hacking.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 

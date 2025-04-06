@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/acezx-programer?tab=repositories](https://github.com/acezx-programer?tab=repositories)
 
-- Currently working/contributing on [Minty-SR(H:SR "Cheetos")](https://discord.gg/kindawindytoday)
+- Currently working/contributing on a private MC Server Mod
 
 <p align="left">
 </p>
